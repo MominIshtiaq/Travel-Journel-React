@@ -1,0 +1,14 @@
+.header {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F55A5A;
+    gap: 1rem;
+}
+
+.title {
+    font-weight: 700;
+    color: white;
+}
